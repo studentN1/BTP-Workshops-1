@@ -1,6 +1,6 @@
 # Computer preparation and Getting Workshop files
-## IPC144 Review Session  for OOP244 Students
-The review session on IPC144/BTP100 wil be held on Sunday Jan 16th, 10 AM to As long as it takes. <br />
+## BTP100 Review Session  for BTP200 Students
+The review session on IPC144/BTP100 will be held on Sunday Jan 16th, 10 AM to as long as it takes. <br />
 This session is open to all the students who need to review the 144 concepts before starting 244 subjects.<br />
 
 [Click here to join the Session]()

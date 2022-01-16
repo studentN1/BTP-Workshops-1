@@ -3,8 +3,7 @@
 The review session on IPC144/BTP100 will be held on Sunday Jan 16th, 10 AM to as long as it takes. <br />
 This session is open to all the students who need to review the 144 concepts before starting 244 subjects.<br />
 
-[Click here to join the Session]()
-
+PLease use your real name when asked and [Click here to join the Session](https://connect.rna2.blindsidenetworks.com/invite/to?c=nITAIyRBPmb20MmYqBigXExU3DfDWsnc6p4JxVLFbs0&m=1b675d8dc1c952fe3b081555fabab0cc0a9cf35f&t=1642343944512&u=senecacollege)
 ### Review Recordings
 review recording will be posted here.
 

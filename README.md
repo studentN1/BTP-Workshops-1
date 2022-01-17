@@ -1,11 +1,11 @@
 # Computer preparation and Getting Workshop files
-## BTP100 Review Session  for BTP200 Students
-The review session on IPC144/BTP100 will be held on Sunday Jan 16th, 10 AM to as long as it takes. <br />
-This session is open to all the students who need to review the 144 concepts before starting 244 subjects.<br />
 
-PLease use your real name when asked and [Click here to join the Session](https://connect.rna2.blindsidenetworks.com/invite/to?c=nITAIyRBPmb20MmYqBigXExU3DfDWsnc6p4JxVLFbs0&m=1b675d8dc1c952fe3b081555fabab0cc0a9cf35f&t=1642343944512&u=senecacollege)
-### Review Recordings
-review recording will be posted here.
+## BTP100 Review Session  for BTP200 Students
+The review session on IPC144/BTP100 was held on Sunday Jan 16th. <br />
+This session was open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
+
+### Review Recording
+Since the lecture was several hours long, the video processing will take some time, The recording will be posted as soon as the video is ready.
 
 ## Setting up your computers for btp200
 

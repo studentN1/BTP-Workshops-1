@@ -4,6 +4,8 @@
 The review session on IPC144/BTP100 was held on Sunday Jan 16th. <br />
 This session was open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
 
+[Sample codes done in class](https://github.com/Seneca-244200/OOP244-NAA-and-NBB-Notes/tree/main/144100Review)
+
 ### Review Recording
 (Thanks to Armando Villavona for the time stamps)
 - [Part 1](https://www.youtube.com/watch?v=U1Ge3tkUNo8)

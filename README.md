@@ -5,7 +5,35 @@ The review session on IPC144/BTP100 was held on Sunday Jan 16th. <br />
 This session was open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
 
 ### Review Recording
-Since the lecture was several hours long, the video processing will take some time, The recording will be posted as soon as the video is ready.
+(Thanks to Armando Villavona for the time stamps)
+- [Part 1](https://www.youtube.com/watch?v=U1Ge3tkUNo8)
+  - 00:20 Intro
+  - 00:40 Discord
+  - 06:00 Submitter / Matrix
+  - 27:30 IPC
+  - 31:20 Memory
+  - 36:20 Compilers
+  - 40:20 Types
+  - 1:05:30 Simple Calculations
+  - 1:24:30 Expressions
+  - 1:45:00 How to Better understand Your Code
+- [Part 2](https://www.youtube.com/watch?v=A32XivTl-0Y)
+  - 2:00 Logic
+  - 1:02:00 Style Guidelines
+  - 1:10:00 Testing and Debugging Techniques
+  - 1:21:00 Pointers
+  - 1:44:00 Arrays
+  - 1:54:00 Pointers and Arrays
+  - 2:00:00 Structs
+  - 2:11:00 Array of Structs
+  - 2:23:00 Text Files
+- [Part 3](https://www.youtube.com/watch?v=9WTJ-pDTePo)
+  - 8:00 Character Strings
+  - 10:00 String Library
+  - 15:00 2D Arrays
+  - 23:00 Algorithms
+  - 24:00 Portability
+  - 25:00 Q/A 
 
 ## Setting up your computers for btp200
 

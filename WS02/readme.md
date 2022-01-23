@@ -414,7 +414,7 @@ int main() {
 It will try to open the file and initialize any requirements needed for the application. Returns true if the file is opened successfully and returns false it fails to open the file.
 
 ### ```bool read(const char* subDNA);```
-Dynamically creates an array of DNA records to the number of matches found in the file and stores the matches in them. Returns true if at least one match if found and false if no match is found in the records.
+Dynamically creates an array of DNA records to the number of matches found in the file and stores the matches in them. Returns true if at least one match is found and false if no match is found in the records.
 
 ### ```void sort()```
 Sorts the dynamic array of DNA matches found in the file based on the ids in ascending order.

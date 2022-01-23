@@ -326,7 +326,7 @@ A DNA strand representation is done through combinations of the characters 'a', 
 
 Each DNA strand is between 100 to 1000 characters. 
 
-The number of DNA strands in the data file is could be millions. This amount is different in each data file.
+The number of DNA strands in the data file could be millions. This amount is different in each data file.
 
 Your responsibility is to write a library of functions in a module called "DNA" that can support the main program provided to have the following execution outcome:
 

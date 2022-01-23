@@ -152,7 +152,7 @@ X,<ENTER>
 and goes to new line.
 
 #### ```void initialize(int allocSize);```
-Initialized [the four Car.cpp](#file-scoped-variables) variables as follows:
+Initializes [the four Car.cpp](#file-scoped-variables) variables as follows:
 - sets the ```number of cars``` to zero
 - sets the ```Car Array Size``` and the ```Allocation Size``` to the argument **allocSize**
 - dynamically allocates an array of Cars to the size of ```Allocation Size``` and keeps the address in ```The Car Pointer```

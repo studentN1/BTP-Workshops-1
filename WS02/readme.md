@@ -102,7 +102,7 @@ In the prototype of the function provide a new line (```'\n'```) character as a 
 Execution:  
 ```Text
 Please entere your name: Fred Al Soley<ENTER>
-Hello Fred All Soley!
+Hello Fred Al Soley!
 ```
 ### Implementation
 

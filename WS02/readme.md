@@ -189,7 +189,7 @@ Records the passage of a car by adding its information to the [Car Array](#file-
     - delete the old car array by deleting ```The Car Pointer```
     - set ```The Car Pointer``` to the value of the temporary local car pointer
     - update the carr array size to the new size
-- copy the ```car argument``` into the last element of the car array pointed by ```The Car Pointer``` and add one to the ```number of cars```.
+- copy the ```car argument``` after the last occupied element of the car array pointed by ```The Car Pointer``` and add one to the ```number of cars```.
 
 See the illustration bellow:   
 - [HTML](lab/ResizingCarArray.md)

@@ -1,6 +1,6 @@
 # record function resizing the Car arry
 
-- if the [number of cars](#file-scoped-variables) is equal to the size of [the carr array](#file-scoped-variables) it means that the  [Car Array](#file-scoped-variables) is full, we have to enlarge it to make room for more entry
+- if the [number of cars](#file-scoped-variables) is equal to the size of [the carr array](#file-scoped-variables) it means that the  [Car Array](#file-scoped-variables) is full, we have to enlarge it to make room for more entry<br />
 ![step one](../images/resize1.png)
     - in a temporary local car pointer dynamically allocate an array of car to the size of ```the car array + the allocation size```.<br />
     ![step two](../images/resize2.png)

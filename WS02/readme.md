@@ -51,7 +51,7 @@ g++ -Wall -std=c++11 -g -o ws file1.cpp file2.cpp ...
 After compiling and testing your code, run your program as following to check for possible memory leaks (assuming your executable name is `ws`):
 
 ```bash
-valgrind ws
+valgrind -s --leak-check=full ws
 ```
 
 To check the output, use a program that can compare text files.  Search online for such a program for your platform, or use *diff* available on `matrix`.

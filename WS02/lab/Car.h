@@ -2,7 +2,8 @@
 #ifndef CAR_H 
 #define CAR_H
 
-namespace sdds
+//namespace sdds
+namespace myCarNamespace
 {
 	struct Car
 	{
@@ -15,13 +16,21 @@ namespace sdds
 		 constant or constant expression.  Note that the size of an array
 		 allocated in static memory must be an integer constant or constant
 		 expression. */
-		char* make;
-		char* model;
+		char* make = nullptr;		//character pointer later defined as dataptr[x] = value OR *model=value
+		char* model = nullptr;	//character pointer later defined as dataptr[x] = value OR *model=value
 		int time;	// in military format (ie. 30 is 0:30 AM and 1325 is 1:25 PM)
-	};
+	}; //struct Car* car = nullptr;
+
 
 	void VBPLE_Title();
 	void initialize(int allocSize);
+	void deallocate(Car& C);
+	bool read(Car& C);
+	void print(const Car& C);
+	void record(const Car& C);
+	void endOfDay();
+
+
 
 }
 

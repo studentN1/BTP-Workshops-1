@@ -22,7 +22,7 @@ namespace myCarNamespace
 	//car = new Car[allocSize];
 
 	//const int allocationSize = 2; // an integer to hold the memory allocation and expansion size when needed
-	int allocationSize; // an integer to hold the memory allocation and expansion size when needed
+	int allocationSize = 2; // an integer to hold the memory allocation and expansion size when needed
 	int numCars; // an integer to hold the number of cars currently in the dynamic array of cars pointed by The Car Pointer
 	int carArrSize; //  an integer to hold the current allocation size of the array. This value is the maximum size that the Number Of Cars can grow up to (before reallocation for expansion).
 
@@ -85,14 +85,13 @@ namespace myCarNamespace
 		unsigned int unsInt = 60;
 		unsigned int unsIntLic = 8;
 
+		char a[] = {0};	// temp var (apparantly make should be tempVars???
+
+		//sdds::read(car[1], unsInt, ',');
 
 		sdds::read(car->make, unsInt, ',');
-
-		//sdds::read(car.make[0], unsInt, ',');
 		//*tempMake = { sdds::read(car->make, unsInt, ',') };
 		//&tempMake( sdds::read(car->make, unsInt, ',') );
-		cout << "sdds:read() successful" << endl;
-
 
 		*tempMake = *car->make; // OR
 		cout << "*tempMake = *car->Make" << tempMake << endl;

@@ -8,8 +8,11 @@ Revision History
 -----------------------------------------------------------
 Date       Reason
 -----------------------------------------------------------*/
+#include "cStrTools.h"
 #include "Car.h"
 using namespace sdds;
+using namespace myCarNamespace;
+
 
 int main(){
    Car C;

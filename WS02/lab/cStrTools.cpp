@@ -101,19 +101,26 @@ namespace sdds {
     // whichever comes first (skipping leading white space characters but accpting
     // spaces in the cString)
     void read(char* cString, unsigned int maxSize, char delimiter) {
+        cout << "Hello i am in cStrTools.read() START" << endl;///////////////////////////////////////
         char ch = 0;
         unsigned int i = 0;
+        //delimiter = '\n';
+        cout << "delim = " << delimiter << endl;///////////////////////////////////////
+
         // skipping leading white space chars
         do {
             cin.get(ch); // reads one character from input
         } while (isSpace(ch));
         // read char by char util hitting delimiter or maxSize
+        cout << "Hello i am in cStrTools.read() mid" << endl;///////////////////////////////////////
+
         for (i = 0; i < maxSize && ch != delimiter; i++) {
             cString[i] = ch;
             // read the cString stopping at the size limit
             if (i < maxSize - 1) cin.get(ch);
         }
         cString[i] = 0; // make sure the cString is null terminated
+        cout << "Hello i am in cStrTools.read()" << endl;///////////////////////////////////////
     }
     // -----------------------------------------------------------
 }
